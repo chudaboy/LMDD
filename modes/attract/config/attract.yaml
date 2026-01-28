@@ -9,4 +9,8 @@ slide_player:
 sound_player:
   mode_attract_started:
     the odysseus:
+      action: play
       bus: music
+      delay: 5
+      fade_in: 2
+      loops: -1
